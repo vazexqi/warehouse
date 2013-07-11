@@ -1,0 +1,25 @@
+#Wed Jul 10 12:46:40 PDT 2013
+ExecuteAnonymousApex_code=Debug
+ExecuteAnonymousApex_profiling=Info
+ExecuteAnonymousCallout=Info
+ExecuteAnonymousDb=Info
+ExecuteAnonymousValidation=Info
+ExecuteAnonymousWorkflow=Info
+RunTestApex_code=Debug
+RunTestApex_profiling=Info
+RunTestCallout=Info
+RunTestDb=Info
+RunTestValidation=Info
+RunTestWorkflow=Info
+eclipse.preferences.version=1
+endpointApiVersion=25.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=25.0
+keependpoint=false
+metadataFormatVersion=25.0
+namespacePrefix=
+packageName=unpackaged
+readTimeout=400
+username=nchen.dev@mac.com
